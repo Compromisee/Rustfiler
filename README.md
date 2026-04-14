@@ -118,7 +118,7 @@ cargo build --release
 ### Option C — Install via Cargo
 
 ```bash
-cargo install --git https://github.com/yourname/file-organizer
+cargo install --git https://github.com/compromisee/rustfiler
 ```
 
 ---
@@ -938,6 +938,11 @@ SOFTWARE.
 ```
 
 ---
+
+## KNOWN ISSUES!!!
+
+- Option A and Option B for sinstal DO NOT WORK!!!
+      - Use option C for now or download as zip and extract instead
 
 ## 🙏 Acknowledgements
 
